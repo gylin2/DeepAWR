@@ -1,0 +1,16 @@
+audiomentations==0.24.0
+bchlib==0.14.0
+crcmod==1.7
+deepspeed==0.9.1
+fire==0.5.0
+julius==0.2.7
+kornia==0.6.8
+numpy==1.19.5
+pydub==0.25.1
+pypesq==1.2.4
+SoundFile==0.10.3.post1
+torch==1.10.2+cu113
+torch_summary==1.4.5
+torchaudio==0.10.2+cu113
+torchsummary==1.5.1
+tqdm==4.64.0
