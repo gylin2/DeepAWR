@@ -42,7 +42,7 @@ Run the `extract.py` to extract the watermark against the re-recording distortio
 python3 extract.py   -2   ./results/fma/test_result/attack_audio/  ./results/fma
 ```
 python3 extract.py   -2   ./results/fma/test_result/attack_audio_05/  ./results/fma
-- **Means:** python3 extract.py &emsp; attack_method &emsp; attacked_audio_path &emsp; result_path &emsp; watermak
+- **Means:** python3 extract.py &emsp; attack_method &emsp; attacked_audio_path &emsp; result_path
 - attack_method: 
   - -1:&emsp;common distortion; 
   - -2:&emsp;re-recording distortion
