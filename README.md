@@ -5,13 +5,11 @@ This repository contains the official implementation of our paper, "An Audio Wat
 
 Installing dependencies:
 ```
+cd ./DeepAWQ_main
 pip install -r requirements.txt
 ```
 
 ### 2. Set hyperparameters and specify dataset paths
-```
-cd ./DeepAWQ_main
-```
 - ./utils/hparameter.py 
 
 ### 3. Run the training procedure
